@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;600;700&display=swap'); 
+
+.navbar{
+    display: flex;
+    align-items: center;
+    background-color: #21222A;
+    color: #dad8d8;
+    font-weight: bold;
+    padding: 30px 25px;
+    height: 90px;
+}
+
+.navbar > figure{
+    height: 30px;
+    margin-right: 7px;
+}
+
+.nav-tittle {
+    margin: 0;
+}
+
+.nav-tittle-h3{
+    margin-right: auto;
+    color: #61DAF8;
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.nav-tittle-h4{
+    font-weight: 600;
+}
+
